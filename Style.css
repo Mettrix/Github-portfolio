@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    font-family: 'Italianno', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14 px;
+    color: #eb1818;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+/* Container
+================ */
+.container {
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+/* Header 
+================ */
+
+.header {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+
+}
+
+
+.header__inner {
+    display: flex;
+
+}
+
+
+/* Интро 
+================ */
+
+.intro {
+    height: 824px;
+    background-image: url("img/Background1.JPG");
+    display: block;
+    margin: auto;
+    
+
+}
